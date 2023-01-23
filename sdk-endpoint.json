@@ -1,1 +1,14 @@
-https://api.domain.com/api/v2
+[
+        {
+            "region": "EU",
+            "host": "https://api-eu.domain.com/api/v2"
+        },
+        {
+            "region": "US",
+            "host": "https://api-us.domain.com/api/v2"
+        },
+        {
+            "region": "IR",
+            "host": "https://api-ir.domain.com/api/v2"
+        }
+    ]
