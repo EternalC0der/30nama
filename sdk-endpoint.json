@@ -1,14 +1,18 @@
 [
         {
-            "region": "US",
-            "host": "https://api-us.webpanel.systems/api/v2"
+            "location": "NL",
+            "host": "http://api.melopod.com:8880/api/v2"
         },
         {
-            "region": "EU",
+            "location": "DE",
             "host": "https://api.webpanel.systems/api/v2"
         },
         {
-            "region": "IR",
+            "location": "US",
+            "host": "https://api-us.webpanel.systems/api/v2"
+        },
+        {
+            "location": "IR",
             "host": "http://api-ir.webpanel.systems/api/v2"
         }
 ]
