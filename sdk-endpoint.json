@@ -1,10 +1,10 @@
 [
         {
             "location": "WORLD",
-            "host": "https://world.harper-api.com/api/v2"
+            "host": "https://world.hollie-api.com//api/v2"
         },
         {
             "location": "IR",
-            "host": "https://ir.hashem-api.com/api/v2"
+            "host": "https://ir.karim-api.com//api/v2"
         }
 ]
